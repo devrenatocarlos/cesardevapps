@@ -4,7 +4,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#6BBE98"
+    android:background="@color/light_green"
     >
 
     <TextView
@@ -12,7 +12,7 @@
         android:id="@+id/text_result"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="30dp"
+        android:textSize="30sp"
         android:textColor="@color/orange">
     </TextView>>
 </LinearLayout>

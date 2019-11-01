@@ -9,4 +9,7 @@
 
     <string name="edit_field_user"> Usuário</string>
     <string name="edit_field_password"> Senha</string>
+
+    <string name="hello"> olá</string>
+    <string name="your_cpf"> seu cpf é </string>
 </resources>
