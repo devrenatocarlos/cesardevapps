@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Home Work</string>
+    <string name="app_main_activity_title"> Tela Inicial</string>
+    <string name="app_activity_register"> Cadastro </string>
+    <string name="app_activity_login"> Login </string>
+    <string name="app_activity_result"> Saída  </string>
+    <string name="edit_field_name"> Informe seu nome</string>
+    <string name="edit_field_cpf"> Informe seu cpf</string>
+
+    <string name="edit_field_user"> Usuário</string>
+    <string name="edit_field_password"> Senha</string>
+</resources>
